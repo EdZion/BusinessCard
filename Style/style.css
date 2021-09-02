@@ -4,6 +4,7 @@ body{
     background-image: url(/images/Background.svg);
     background-size: 100% 100%;
     background-size: cover;
+    min-height: 100vh;
     font-family: 'Roboto', sans-serif;
 }
 
