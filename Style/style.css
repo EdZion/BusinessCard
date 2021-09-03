@@ -1,10 +1,9 @@
 body{
     margin: 0;
-    height: 100%;
     background-image: url(/images/Background.svg);
-    background-size: 100% 100%;
     background-size: cover;
-    min-height: 100vh;
+    background-repeat: no-repeat;
+    max-height: 100vh;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -37,6 +36,8 @@ body{
     align-items: center;
     justify-content: center;
     border-radius: 2rem;
+    border-left: 2em solid rgba(148, 212, 249, 1);
+    border-right: 2em solid rgba(46, 83, 216, 1);
 }
 
 .Name{
