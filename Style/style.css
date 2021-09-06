@@ -52,14 +52,9 @@ body {
 }
 
 .Number {
-  margin-top: 1rem;
-  
+  margin-top: 1.5rem; 
 }
 
-.Mail {
-  margin-top: 1rem;
-  
-}
 .Adress {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
